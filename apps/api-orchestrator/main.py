@@ -1,11 +1,7 @@
-﻿from fastapi import FastAPI
+from fastapi import FastAPI
+from routers import health
 
-app = FastAPI()
+app = FastAPI(title="TEOS API Orchestrator")
 
-@app.get("/")
-def read_root():
-    return {"Hello": "TEOS"}
-
-@app.get("/health")
-def health_check():
-    return {"status": "ok"}
+# Routers
+app.include_router(health.router)
