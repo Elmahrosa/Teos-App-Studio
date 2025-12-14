@@ -2,6 +2,8 @@
 **Official Monorepo for TEOS Network Ecosystem**  
 Made by **Elmahrosa**
 
+[![Made by Elmahrosa](https://img.shields.io/badge/Made%20by-Elmahrosa-blue?style=for-the-badge)](https://github.com/Elmahrosa)
+
 ---
 
 “Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.”
@@ -76,12 +78,4 @@ Every module is mapped to a UN SDG for investor credibility and sustainability i
 Built and maintained by **Elmahrosa**  
 Founder: **Ayman Seif**
 
----
-
-## 📜 License
-This project is licensed under the **Apache-2.0 License**.  
-See the [LICENSE](LICENSE) file for details.
-```
-
----
 
