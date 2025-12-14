@@ -1,18 +1,18 @@
 # License — TEOS Egypt Sovereign License (TESL)
 
 This repository is proprietary and protected under the **TEOS Egypt Sovereign License (TESL)**.  
-It is NOT open source. Commercial inquiries only.
+It is NOT open source. Commercial inquiries only.  
 
-For the full license text, see:  
-[TEOS Egypt Sovereign License (TESL)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+For the authoritative license text, always refer to the [TESL.md](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md) in the Teos-Pharaoh-Portal repository.
 
 ---
 
 ## 🛑 PROPRIETARY & CONFIDENTIAL — TEOS EGYPT
-[![Strictly Proprietary](https://img.shields.io/badge/Strictly%20Proprietary-TEOS%20Sovereign%20License-ff0000?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
+**Strictly Proprietary**
 
 **Commercial inquiries only — Contact:**  
-📧 ayman@teosegypt.com | 📞 +20 100 616 7293  
+📧 ayman@teosegypt.com  
+📞 +20 100 616 7293  
 
 ---
 
